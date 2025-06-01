@@ -14,6 +14,7 @@ Tingginya attrition rate menandakan adanya masalah internal yang belum teridenti
 
 ## Persiapan 
 Sumber Data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
+
 Setup Environment: 
 ** Install dependencies **
 
@@ -34,6 +35,7 @@ Dashboard dibuat dengan menggunakan tableu, sehingga untuk melihatnya dapat mela
 
 ## Business Dashboard
 Berikut URL dashboard:
+
 **https://public.tableau.com/app/profile/nurul.fatimah4077/viz/Attrition_17484346710410/Dashboard1
 https://public.tableau.com/app/profile/nurul.fatimah4077/viz/Attrition_17484346710410/Dashboard2
 https://public.tableau.com/app/profile/nurul.fatimah4077/viz/Attrition_17484346710410/Dashboard3
