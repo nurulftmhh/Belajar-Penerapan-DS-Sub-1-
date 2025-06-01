@@ -16,6 +16,7 @@ Tingginya attrition rate menandakan adanya masalah internal yang belum teridenti
 Sumber Data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
 
 Setup Environment: 
+
 ** Install dependencies **
 
 pip install -r requirements.txt
